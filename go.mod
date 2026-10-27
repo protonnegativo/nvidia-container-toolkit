@@ -17,12 +17,12 @@ require (
 	github.com/opencontainers/runc v1.5.2
 	github.com/opencontainers/runtime-spec v1.3.0
 	github.com/pelletier/go-toml v1.9.5
-	github.com/prometheus/procfs v0.21.1
+	github.com/prometheus/procfs v0.23.0
 	github.com/sirupsen/logrus v1.10.2
 	github.com/stretchr/testify v1.12.1
 	github.com/urfave/cli-altsrc/v3 v3.1.0
 	github.com/urfave/cli/v3 v3.14.0
-	golang.org/x/sys v0.48.0
+	golang.org/x/sys v0.49.0
 	tags.cncf.io/container-device-interface v1.1.1
 	tags.cncf.io/container-device-interface/specs-go v1.1.1
 )
